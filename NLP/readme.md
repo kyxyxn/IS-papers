@@ -1,0 +1,10 @@
+- Bapna et al. 2019: Nurturing online communities: an empirical investigation
+- Bardhan  et al .2020: Connecting systems, data, and people: a multidisciplinary research roadmap for chronic disease management
+- Kokkodis et al. 2020: From Lurkers to Workers: Predicting Voluntary Contribution and Community Welfare
+- Li et al. 2020: TheoryOn: a design framework and system for unlocking behavioral knowledge through ontology learning
+- Liu et al. 2020: Finding Useful Solutions in Online Knowledge Communities: A Theory-Driven Design and Multilevel Analysis
+- Liu et al. 2020: Go to youtube and call me in the morning: use of social media for chronic conditions
+- Kokkodis 2021: Dynamic, Multidimensional, and Skillset-Specific Reputation Systems for Online Work
+- Nian et al. 2021: Examining the Impact of Television-Program-Induced Emotions on Online Word-of-Mouth Toward Television Advertising
+- Wu et al. 2021: FairPlay: Detecting and Deterring Online Customer Misbehavior 
+- Zhu et al. 2021: A deep learning approach for recognizing activity of daily living (adl) for senior care: exploiting interaction dependency and temporal patterns
