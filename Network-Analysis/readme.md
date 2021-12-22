@@ -1,8 +1,11 @@
 Network Analysis papers
 
-Zhang et al. 2013: Large-scale network analysis for online social brand advertising
-Kane et al. 2014: What’s different about social media networks? a framework and research agenda
-Martens et al. 2014: Mining massive fine-grained behavior data to improve predictive analytics
+- Zhang et al. 2013: Large-scale network analysis for online social brand advertising
+- 
+- Kane et al. 2014: What’s different about social media networks? a framework and research agenda
+- 
+- Martens et al. 2014: Mining massive fine-grained behavior data to improve predictive analytics
+- 
 Shi et al. 2014: Content sharing in a social broadcasting environment
 Cecez-Kecmanovic et al. 2014: Reframing success and failure of information systems
 Liu et al. 2015: Friendships in online peer-to-peer lending: pipes, prisms, and relational herding
